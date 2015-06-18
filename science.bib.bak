@@ -1,0 +1,99 @@
+% This file was created with JabRef 2.10.
+% Encoding: GBK
+
+
+@Article{Huang201524,
+  Title                    = {Vehicle routing scheduling for municipal waste collection system under the "keep Trash off the Ground" policy },
+  Author                   = {Shan-Huen Huang and Pei-Chun Lin},
+  Journal                  = {Omega },
+  Year                     = {2015},
+  Number                   = {0},
+  Pages                    = {24 - 37},
+  Volume                   = {55},
+
+  Abstract                 = {Abstract This paper investigates the waste collection problem and characterizes the problem as a set-covering and vehicle routing problem (VRP) complicated by inter-arrival time constraints. The study proposes a bi-level optimization formulation to model the split delivery \{VRP\} with multiple trips to determine the minimum-distance route. The first stage optimally plans the collection points that cover all residential blocks. The second stage applies a heuristics method to solve the minimum vehicles used and minimum distance traveled for collecting residential waste. This research contributes to model this period \{VRP\} and to introduce the heuristics method to solve the problem efficiently. The study is important in laying the groundwork for understanding the possibility of improving the service level of municipal solid waste collection.},
+  Doi                      = {http://dx.doi.org/10.1016/j.omega.2015.02.004},
+  File                     = {:E\:\\参考资料\\Omega\\1-s2.0-S0305048315000353-main.pdf:PDF},
+  ISSN                     = {0305-0483},
+  Keywords                 = {Waste collection problem},
+  Owner                    = {Benjamin},
+  Timestamp                = {2015.06.18},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0305048315000353}
+}
+
+@Article{Klein2015,
+  Title                    = {Maximizing customer equity subject to capacity constraints },
+  Author                   = {Robert Klein and Johannes Kolb},
+  Journal                  = {Omega },
+  Year                     = {2015},
+  Number                   = {0},
+  Pages                    = {111 - 125},
+  Volume                   = {55},
+
+  Abstract                 = {Abstract This paper considers a firm that wants to optimally allocate limited capacity to heterogeneous customer segments in order to maximize its customer equity. The decision whether to accept or to reject a customers request in a current period influences his repurchase behavior in later periods. The allocation process becomes complex, when demand exceeds capacity, because the isolated determination and optimization of a single customers lifetime value is no longer feasible. Using a Markov decision process formulation, we study how to trade off short-term attainable revenues and long-term customer relationships. Furthermore, we analyze when and how intertemporal customer behavior influences capacity allocation. Finally, we investigate the impact of limited capacity on the customer lifetime value by introducing an opportunity cost-based approach that understands customer profitability as a customers contribution to customer equity.},
+  Doi                      = {http://dx.doi.org/10.1016/j.omega.2015.02.008},
+  File                     = {:E\:\\参考资料\\Omega\\1-s2.0-S0305048315000390-main.pdf:PDF},
+  ISSN                     = {0305-0483},
+  Keywords                 = {Markov decision process},
+  Owner                    = {Benjamin},
+  Timestamp                = {2015.06.18},
+  Url                      = {http://www.sciencedirect.com/science/article/pii/S0305048315000390}
+}
+
+@Article{Liu1973,
+  Title                    = {Scheduling Algorithms for Multiprogramming in a Hard-Real-Time Environment},
+  Author                   = {Liu, C. L. and Layland, James W.},
+  Journal                  = {J. ACM},
+  Year                     = {1973},
+
+  Month                    = jan,
+  Number                   = {1},
+  Pages                    = {46--61},
+  Volume                   = {20},
+
+  __markedentry            = {[Benjamin:]},
+  Acmid                    = {321743},
+  Address                  = {New York, NY, USA},
+  Doi                      = {10.1145/321738.321743},
+  File                     = {:E\:\\参考资料\\调度\\liu73.pdf:PDF},
+  ISSN                     = {0004-5411},
+  Issue_date               = {Jan. 1973},
+  Numpages                 = {16},
+  Owner                    = {Benjamin},
+  Publisher                = {ACM},
+  Timestamp                = {2015.06.18},
+  Url                      = {http://doi.acm.org/10.1145/321738.321743}
+}
+
+@Book{Pinedo2012,
+  Title                    = {Scheduling: theory, algorithms, and systems},
+  Author                   = {Pinedo, Michael L},
+  Publisher                = {Springer Science \& Business Media},
+  Year                     = {2012},
+
+  __markedentry            = {[Benjamin:6]},
+  File                     = {:K\:\\教程\\调度\\Scheduling-Theory, Algorithms and Systems(2008).pdf:PDF},
+  Owner                    = {Benjamin},
+  Timestamp                = {2015.06.18}
+}
+
+@Book{t2006multicriteria,
+  Title                    = {Multicriteria scheduling: theory, models and algorithms},
+  Author                   = {T'kindt, Vincent and Billaut, Jean-Charles},
+  Publisher                = {Springer Science \& Business Media},
+  Year                     = {2006},
+
+  File                     = {:K\:\\教程\\调度\\[Vincent_T'Kindt,_Jean-Charles_Billaut]_Multicrite(BookZZ.org).pdf:PDF},
+  Owner                    = {Benjamin},
+  Timestamp                = {2015.06.18}
+}
+
+@comment{jabref-meta: groupsversion:3;}
+
+@comment{jabref-meta: groupstree:
+0 AllEntriesGroup:;
+1 ExplicitGroup:vehicle routing scheduling\;0\;Huang201524\;;
+1 ExplicitGroup:other\;0\;Klein2015\;;
+1 ExplicitGroup:scheduling\;0\;Liu1973\;Pinedo2012\;;
+}
+
